@@ -7,3 +7,4 @@ Max_dex = 898
 
 # 参照したいURLのベース．ここに図鑑番号をくっけて個別ページを巡回する
 base_url = "https://pokemondb.net/pokedex/"
+
