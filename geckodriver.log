@@ -1,0 +1,38 @@
+1625130986753	geckodriver	INFO	Listening on 127.0.0.1:55230
+1625130987720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/08/r3v8m9zj7pngpfcycs2x4dn40000gn/T/rust_mozprofilewmF7H9"
+1625130989439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/r3v8m9zj7pngpfcycs2x4dn40000gn/T/rust_mozprofilewmF7H9/search.json.mozlz4", (void 0)))
+1625130991428	Marionette	INFO	Listening on port 55247
+1625130991545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625131011198	Marionette	INFO	Stopped listening on port 55247
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625131026658	geckodriver	INFO	Listening on 127.0.0.1:55361
+1625131026682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/08/r3v8m9zj7pngpfcycs2x4dn40000gn/T/rust_mozprofileOnpcpY"
+1625131027013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/r3v8m9zj7pngpfcycs2x4dn40000gn/T/rust_mozprofileOnpcpY/search.json.mozlz4", (void 0)))
+1625131028461	Marionette	INFO	Listening on port 55370
+1625131028535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gum.criteo.com/sync?c=46&r=2&j=handleData, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=46&r=2&j=handleData, line 1: SecurityError: The operation is insecure.
+1625131034764	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625131034966	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625131042598	Marionette	INFO	Stopped listening on port 55370
